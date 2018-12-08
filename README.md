@@ -3,5 +3,5 @@ This is a reverse shell made in python2. It allows local machines to connect via
 
 Run python server.py
 
-run python client.py
+Run python client.py
 
