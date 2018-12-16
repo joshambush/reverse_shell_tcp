@@ -1,9 +1,13 @@
 # python2
 # Make sure to run server before client
-"""
-Creater: Josh Ambush aka J Slump
-Email: ambushslump5435@gmail.com
-"""
+	"""
+	|****************************|
+	|Author:Josh ambush
+	|https://github.com/joshambush/
+	| joshambush5435@gmail.com
+	|by-: joshambush
+	|______________________________|
+	"""
 import socket
 
 def main():
