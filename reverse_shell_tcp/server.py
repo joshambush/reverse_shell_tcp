@@ -2,7 +2,7 @@
 # Make sure to run server before client
 	"""
 	|****************************|
-	|Author:Josh ambush
+	|Author:Josh Ambush
 	|https://github.com/joshambush/
 	| joshambush5435@gmail.com
 	|by-: joshambush
