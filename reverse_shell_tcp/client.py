@@ -2,7 +2,7 @@
 # make sure to run server first
 	"""
 	|****************************|
-	|Author:Josh ambush
+	|Author:Josh Ambush
 	|https://github.com/joshambush/
 	| joshambush5435@gmail.com
 	|by-: joshambush
